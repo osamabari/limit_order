@@ -13,8 +13,8 @@ or if you want to run with docker
 
 ## RUN
 * `npm run test`
-or if you want to run with docker
-`* docker-compose -f docker-compose-test.yml up`
+* or if you want to run with docker
+* `docker-compose -f docker-compose-test.yml up`
 
 
 
