@@ -7,14 +7,12 @@
 - FIFO Order Matching
 
 ## Benchmarking
-* `node benchmark.js or npm run benchmark`
-or if you want to run with docker
-`* docker-compose -f docker-compose-benchmark.yml up`
+* If you hvae Node.js Installed`node benchmark.js or npm run benchmark`
+* If you have only installed Docker `docker-compose -f docker-compose-benchmark.yml up`
 
 ## RUN
-* `npm run test`
-* or if you want to run with docker
-* `docker-compose -f docker-compose-test.yml up`
+* If you hvae Node.js Installed `npm run test`
+* If you have only installed Docker `docker-compose -f docker-compose-test.yml up`
 
 
 
