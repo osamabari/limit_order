@@ -8,11 +8,11 @@
 
 ## Benchmarking
 * If you hvae Node.js Installed`node benchmark.js or npm run benchmark`
-* If you have only installed Docker `docker-compose -f docker-compose-benchmark.yml up`
+* If you have only Docker installed `docker-compose -f docker-compose-benchmark.yml up`
 
 ## RUN
 * If you hvae Node.js Installed `npm run test`
-* If you have only installed Docker `docker-compose -f docker-compose-test.yml up`
+* If you have only Docker installed `docker-compose -f docker-compose-test.yml up`
 
 
 
